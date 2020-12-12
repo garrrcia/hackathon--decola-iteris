@@ -1,4 +1,4 @@
-# campeonato-brasileiro
+# campeonato-brasileiro-feminino
 
 ## Project setup
 ```
