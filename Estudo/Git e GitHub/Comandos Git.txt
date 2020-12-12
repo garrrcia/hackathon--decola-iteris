@@ -1,0 +1,58 @@
+Comandos de Git
+
+
+
+![image-20201207173329026](C:\Users\Garcia\AppData\Roaming\Typora\typora-user-images\image-20201207173329026.png)
+
+
+
+$git init
+
+$git clone < URL para o repositório remoto >
+
+$git status
+
+$git reset
+
+$git add . 
+
+$git add --A
+
+&git --am
+
+$git add < arquivo >
+
+$git diff
+
+
+
+$git commit -m "mensagem"
+
+$git checkout
+
+$git checkout .
+
+$git fetch
+
+$git  pull
+
+
+
+$git checkout
+
+$git checkout --< arquivo >
+
+$git fecth
+
+$git reset --hard
+
+$git clean
+
+
+
+$git reset
+
+
+
+
+
